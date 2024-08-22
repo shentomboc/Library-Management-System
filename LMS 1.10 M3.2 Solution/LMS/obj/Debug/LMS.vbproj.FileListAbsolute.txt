@@ -1,0 +1,22 @@
+C:\Users\Shane\Random\PROJECT(LARA, JERWIN)\LMS 1.10 M3.2 Solution\LMS\bin\Debug\MUJI Library.exe.config
+C:\Users\Shane\Random\PROJECT(LARA, JERWIN)\LMS 1.10 M3.2 Solution\LMS\bin\Debug\MUJI Library.exe.manifest
+C:\Users\Shane\Random\PROJECT(LARA, JERWIN)\LMS 1.10 M3.2 Solution\LMS\bin\Debug\MUJI Library.application
+C:\Users\Shane\Random\PROJECT(LARA, JERWIN)\LMS 1.10 M3.2 Solution\LMS\bin\Debug\MUJI Library.exe
+C:\Users\Shane\Random\PROJECT(LARA, JERWIN)\LMS 1.10 M3.2 Solution\LMS\bin\Debug\MUJI Library.pdb
+C:\Users\Shane\Random\PROJECT(LARA, JERWIN)\LMS 1.10 M3.2 Solution\LMS\bin\Debug\MUJI Library.xml
+C:\Users\Shane\Random\PROJECT(LARA, JERWIN)\LMS 1.10 M3.2 Solution\LMS\obj\Debug\LMS.vbproj.AssemblyReference.cache
+C:\Users\Shane\Random\PROJECT(LARA, JERWIN)\LMS 1.10 M3.2 Solution\LMS\obj\Debug\LMS.categorywindow.resources
+C:\Users\Shane\Random\PROJECT(LARA, JERWIN)\LMS 1.10 M3.2 Solution\LMS\obj\Debug\LMS.Form1.resources
+C:\Users\Shane\Random\PROJECT(LARA, JERWIN)\LMS 1.10 M3.2 Solution\LMS\obj\Debug\LMS.Login.resources
+C:\Users\Shane\Random\PROJECT(LARA, JERWIN)\LMS 1.10 M3.2 Solution\LMS\obj\Debug\LMS.Resources.resources
+C:\Users\Shane\Random\PROJECT(LARA, JERWIN)\LMS 1.10 M3.2 Solution\LMS\obj\Debug\LMS.Specialshit.resources
+C:\Users\Shane\Random\PROJECT(LARA, JERWIN)\LMS 1.10 M3.2 Solution\LMS\obj\Debug\LMS.StartUp.resources
+C:\Users\Shane\Random\PROJECT(LARA, JERWIN)\LMS 1.10 M3.2 Solution\LMS\obj\Debug\LMS.User.resources
+C:\Users\Shane\Random\PROJECT(LARA, JERWIN)\LMS 1.10 M3.2 Solution\LMS\obj\Debug\LMS.viewbooks.resources
+C:\Users\Shane\Random\PROJECT(LARA, JERWIN)\LMS 1.10 M3.2 Solution\LMS\obj\Debug\LMS.vbproj.GenerateResource.cache
+C:\Users\Shane\Random\PROJECT(LARA, JERWIN)\LMS 1.10 M3.2 Solution\LMS\obj\Debug\LMS.vbproj.CoreCompileInputs.cache
+C:\Users\Shane\Random\PROJECT(LARA, JERWIN)\LMS 1.10 M3.2 Solution\LMS\obj\Debug\MUJI Library.exe.manifest
+C:\Users\Shane\Random\PROJECT(LARA, JERWIN)\LMS 1.10 M3.2 Solution\LMS\obj\Debug\MUJI Library.application
+C:\Users\Shane\Random\PROJECT(LARA, JERWIN)\LMS 1.10 M3.2 Solution\LMS\obj\Debug\MUJI Library.exe
+C:\Users\Shane\Random\PROJECT(LARA, JERWIN)\LMS 1.10 M3.2 Solution\LMS\obj\Debug\MUJI Library.xml
+C:\Users\Shane\Random\PROJECT(LARA, JERWIN)\LMS 1.10 M3.2 Solution\LMS\obj\Debug\MUJI Library.pdb
